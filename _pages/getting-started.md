@@ -25,10 +25,12 @@ As a highly skilled CG artist with a keen eye for detail and a passion for creat
 <h3 style="text-align: left;"><u>Skills</u></h3>
 
 * LANGUAGE
+
 Khmer      Native
 English    Very Good
 
 * HARD SKILLS
+
 | Categories    | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | 3D softwares  | Maya          | ✔✔✔    |
@@ -39,16 +41,17 @@ English    Very Good
 | Microsoft office |            |    ✔✔✔ |
 
 * INTERPERSONAL SKILLS
+
 Analytical Skill
 Time Management
 
 <h3 style="text-align: left;"><u>Education</u></h3>
 
-2017 - 2022  :  BA in English, Major in Translation and Interpretation
-                Institute of Foreign Languages
+* 2017 - 2022:  BA in English, Major in Translation and Interpretation<br>
+<b>Institute of Foreign Languages</b>
                 
-2014 - 2017  :  Graduated High School
-                PVA General Education
+* 2014 - 2017:  Graduated High School<br>
+<b>PVA General Education</b>
 
 <h3 style="text-align: left;"><u>Additional Information</u></h3>
 
