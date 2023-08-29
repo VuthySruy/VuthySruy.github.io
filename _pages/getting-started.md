@@ -10,25 +10,25 @@ As a highly skilled CG artist with a keen eye for detail and a passion for creat
 
 <h3 style="text-align: left;"><u>Experience</u></h3>
 
-⋅⋅*December 2022 – Present:  3D designer at Annex Digital
-⋅⋅*October 2021 – December 2022:  Freelance interpreter for LanguageLine Solutions
-⋅⋅*October 2020 – January 2021:  Freelance translator
-⋅⋅*March 2018 – January 2020:   3D designer at Digital Work Khmer (DWK)
-⋅⋅*Jan – March 2018:   Freelance translator at Iflix
+⋅⋅* December 2022 – Present:  3D designer at Annex Digital
+⋅⋅* October 2021 – December 2022:  Freelance interpreter for LanguageLine Solutions
+⋅⋅* October 2020 – January 2021:  Freelance translator
+⋅⋅* March 2018 – January 2020:   3D designer at Digital Work Khmer (DWK)
+⋅⋅* Jan – March 2018:   Freelance translator at Iflix
 
 <h3 style="text-align: left;"><u>Projects</u></h3>
 
-⋅⋅*
-⋅⋅*
-⋅⋅*
+⋅⋅* A
+⋅⋅* B
+⋅⋅* C
 
 <h3 style="text-align: left;"><u>Skills</u></h3>
 
-⋅⋅*LANGUAGE
+⋅⋅* LANGUAGE
 Khmer      Native
 English    Very Good
 
-⋅⋅*HARD SKILLS
+⋅⋅* HARD SKILLS
 | Categories    | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | 3D softwares  | Maya          | ✔✔✔  |
@@ -40,7 +40,7 @@ English    Very Good
 | ------------- |:-------------:| -----:|
 | Microsoft office |            |    ✔✔✔ |
 
-⋅⋅*INTERPERSONAL SKILLS
+⋅⋅* INTERPERSONAL SKILLS
 Analytical Skill
 Time Management
 
