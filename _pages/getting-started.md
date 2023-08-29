@@ -1,5 +1,5 @@
 ---
-layout: resumepage
+layout: resume_page
 title :  Sruy Sereyvuthy
 permalink: /resume/
 ---
