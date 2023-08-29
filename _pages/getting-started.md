@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Sruy Sereyvuthy
-permalink: /resume/
+permalink: /getting-started/
 ---
 # CG Artist/Unity Game Developer
 
