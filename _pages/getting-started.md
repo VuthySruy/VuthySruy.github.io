@@ -31,8 +31,8 @@ English    Very Good</b>
 
 * HARD SKILLS
 
-| Categories    | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Categories    | Software      |   proficiency    |
+| ------------- |:-------------:| --------:|
 | 3D softwares  | Maya          | ✔✔✔    |
 |               | Blender       | ✔✔      |
 |               | 3DS Max       | ✔       |
