@@ -1,6 +1,6 @@
 ---
-layout: resume_page
-title :  Sruy Sereyvuthy
+layout: page
+title : Sruy Sereyvuthy
 permalink: /resume/
 ---
 # CG Artist/Unity Game Developer
