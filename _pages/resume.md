@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sruy Sereyvuthy
-permalink: /getting-started/
+permalink: /resume/
 ---
 
 <h5 style="text-align: left;">CG Artist/Unity Game Developer</h5>
