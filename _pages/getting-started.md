@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sruy Sereyvuthy's Resume
+title: '\u200E'
 permalink: /getting-started/
 ---
 
-<u><h3 style="text-align: left;">CG Artist/Unity Game Developer</h3>
+<h3 style="text-align: left;"><u>CG Artist/Unity Game Developer</u>u></h3>
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
