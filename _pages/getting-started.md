@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: CG Artist/Unity Game Developer
 permalink: /getting-started/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+Step 1) Fork Reverie to your User Repository
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
