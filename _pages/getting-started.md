@@ -26,8 +26,8 @@ As a highly skilled CG artist with a keen eye for detail and a passion for creat
 
 * LANGUAGE
 
-Khmer      Native
-English    Very Good
+Khmer      Native</b>
+English    Very Good</b>
 
 * HARD SKILLS
 
@@ -42,8 +42,8 @@ English    Very Good
 
 * INTERPERSONAL SKILLS
 
-Analytical Skill
-Time Management
+Analytical Skill</b>
+Time Management</b>
 
 <h3 style="text-align: left;"><u>Education</u></h3>
 
@@ -54,5 +54,4 @@ Time Management
 <b>PVA General Education</b>
 
 <h3 style="text-align: left;"><u>Additional Information</u></h3>
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+...
