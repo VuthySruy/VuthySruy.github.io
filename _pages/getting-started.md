@@ -1,4 +1,9 @@
-Step 1) Fork Reverie to your User Repository
+---
+layout: resumepage
+title
+permalink: /resume/
+---
+# CG Artist/Unity Game Developer
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
