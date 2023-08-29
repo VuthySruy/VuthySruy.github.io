@@ -26,25 +26,33 @@ Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your firs
 
 <h3 style="text-align: left;"><u>Skills</u></h3>
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
+⋅⋅*LANGUAGE
+Khmer      Native
+English    Very Good
 
-For adding single category:
+⋅⋅*HARD SKILLS
+| Categories    | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 3D softwares  | Maya          | ✔✔✔  |
+|               | Blender       | ✔✔   |
+|               | 3DS Max       | ✔ |
+|               | Zbrush        | ✔ |
+| ------------- |:-------------:| -----:|
+| Game engines  | Unity         |   ✔✔✔ |
+| ------------- |:-------------:| -----:|
+| Microsoft office |            |    ✔✔✔ |
 
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
+⋅⋅*INTERPERSONAL SKILLS
+Analytical Skill
+Time Management
 
 <h3 style="text-align: left;"><u>Education</u></h3>
 
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
+2017 - 2022  :  BA in English, Major in Translation and Interpretation
+                Institute of Foreign Languages
+                
+2014 - 2017  :  Graduated High School
+                PVA General Education
 
 <h3 style="text-align: left;"><u>Additional Information</u></h3>
 
