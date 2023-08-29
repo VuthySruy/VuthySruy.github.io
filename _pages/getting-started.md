@@ -6,23 +6,21 @@ permalink: /getting-started/
 
 <h5 style="text-align: left;">CG Artist/Unity Game Developer</h5>
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
-
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
-
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+As a highly skilled CG artist with a keen eye for detail and a passion for creating visually stunning graphics, my resume showcases my extensive experience in the field. With a strong background in 3D modeling, texturing, and rendering, I have successfully brought numerous projects to life for clients across various industries, especially video games. My expertise lies in utilizing industry-standard software such as Maya, Blender, and Photoshop to create realistic and captivating visual effects. I am adept at working within tight deadlines while maintaining the highest quality.
 
 <h3 style="text-align: left;"><u>Experience</u></h3>
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
-
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+⋅⋅*December 2022 – Present:  3D designer at Annex Digital
+⋅⋅*October 2021 – December 2022:  Freelance interpreter for LanguageLine Solutions
+⋅⋅*October 2020 – January 2021:  Freelance translator
+⋅⋅*March 2018 – January 2020:   3D designer at Digital Work Khmer (DWK)
+⋅⋅*Jan – March 2018:   Freelance translator at Iflix
 
 <h3 style="text-align: left;"><u>Projects</u></h3>
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+⋅⋅*
+⋅⋅*
+⋅⋅*
 
 <h3 style="text-align: left;"><u>Skills</u></h3>
 
