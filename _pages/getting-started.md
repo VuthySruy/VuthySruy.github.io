@@ -1,53 +1,101 @@
----
-layout: page
-title: Sruy Sereyvuthy's Resume
-permalink: /getting-started/
----
+#
+# This file contains configuration flags to customize your site
+#
 
-## CG Artist/Unity Game Developer
+# Name of your site (displayed in the header)
+name: Reverie
 
+# Name of the author
+author: Amit Merchant
 
-## Features
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
-adfasdfasdfafdasdfafdadsfafafasdf
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+# Short bio or description (displayed in the header)
+description: An elegant Jekyll theme
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /images/reverie.png
 
-## Skills
+#
+# Flags below are optional
+#
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: amit.d.merchant@gmail.com
+  facebook:
+  flickr:
+  github: amitmerchant1990/reverie
+  instagram:
+  linkedin: 
+  pinterest:
+  rss: rss
+  twitter: amit_merchant
+  stackoverflow: 
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  playconsole:
+  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: 
 
-## Experience
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-43339302-11
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
+# For newer "GA4" analytics, use the following instead of the "UA" entry above
+#google_analytics_ga4: G-GABC1DEFG
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Used for Sitemap.xml and your RSS feed
+url: http://www.amitmerchant.com/reverie
+enforce_ssl: https://www.amitmerchant.com/reverie
 
-## Education
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: "/reverie"
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
+#
+# !! You don't need to change any of the configuration flags below !!
+#
 
-For adding single category:
+permalink: /:title/
 
-```md
-categories: JavaScript
-```
+# The release of Jekyll Now that you're using
+version: v1.2.0
 
-For adding multiple categories:
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
-```md
-categories: [PHP, Laravel]
-```
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
 
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
 
-## Projects
+include: ['_pages']
 
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
+paginate: 6
+paginate_path: /page:num/
 
-## Additional Links
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
