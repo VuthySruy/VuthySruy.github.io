@@ -26,8 +26,8 @@ As a highly skilled CG artist with a keen eye for detail and a passion for creat
 
 * LANGUAGE
 
-Khmer      Native</b>
-English    Very Good</b>
+Khmer      Native<br>
+English    Very Good<br>
 
 * HARD SKILLS
 
@@ -42,8 +42,8 @@ English    Very Good</b>
 
 * INTERPERSONAL SKILLS
 
-Analytical Skill</b>
-Time Management</b>
+Analytical Skill<br>
+Time Management<br>
 
 <h3 style="text-align: left;"><u>Education</u></h3>
 
