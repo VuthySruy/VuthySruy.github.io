@@ -10,11 +10,14 @@ As a highly skilled CG artist with a keen eye for detail and a passion for creat
 
 <h3 style="text-align: left;"><u>Experience</u></h3>
 
-* December 2022 – Present:  3D designer at Annex Digital
-* October 2021 – December 2022:  Freelance interpreter for LanguageLine Solutions
-* October 2020 – January 2021:  Freelance translator
-* March 2018 – January 2020:   3D designer at Digital Work Khmer (DWK)
-* Jan – March 2018:   Freelance translator at Iflix
+December 2022 – Present:  3D designer at Annex Digital
+* Character/Props modeling and texture creation
+* Rigging & skinning
+* Unity setup, Particle systems, VFX, VRM<b>
+October 2021 – December 2022:  Freelance interpreter for LanguageLine Solutions<b>
+October 2020 – January 2021:  Freelance translator<b>
+March 2018 – January 2020:   3D designer at Digital Work Khmer (DWK)<b>
+Jan – March 2018:   Freelance translator at Iflix<b>
 
 <h3 style="text-align: left;"><u>Projects</u></h3>
 
