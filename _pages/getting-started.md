@@ -1,6 +1,6 @@
 ---
 layout: resumepage
-title
+title :  
 permalink: /resume/
 ---
 # CG Artist/Unity Game Developer
