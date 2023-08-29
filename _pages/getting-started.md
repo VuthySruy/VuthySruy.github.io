@@ -1,10 +1,10 @@
 ---
 layout: page
-title: '\u200E'
+title: Sruy Sereyvuthy
 permalink: /getting-started/
 ---
 
-<h3 style="text-align: left;"><u>CG Artist/Unity Game Developer</u>u></h3>
+<h3 style="text-align: left;"><u>CG Artist/Unity Game Developer</u></h3>
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
@@ -12,7 +12,7 @@ Alternatively, you can use [Use this template](https://github.com/amitmerchant19
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
-<h3 style="text-align: left;">Skills</h3>
+<h3 style="text-align: left;">Expertise</h3>
 
 Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
 
