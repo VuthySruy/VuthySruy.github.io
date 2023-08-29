@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Sruy Sereyvuthy's Resume
 permalink: /getting-started/
 ---
 
