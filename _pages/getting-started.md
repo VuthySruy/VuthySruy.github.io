@@ -37,6 +37,8 @@ English    Very Good<br>
 |               | Blender       | ✔✔      |
 |               | 3DS Max       | ✔       |
 |               | Zbrush        | ✔       |
+| 2D textures   | Photoshop     | ✔✔✔    |
+|               | Substance Painter    | ✔✔✔   |
 | Game engines  | Unity         |   ✔✔✔  |
 | Microsoft office |            |    ✔✔✔ |
 
