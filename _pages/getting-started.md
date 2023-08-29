@@ -4,7 +4,7 @@ title: Sruy Sereyvuthy's Resume
 permalink: /getting-started/
 ---
 
-### CG Artist/Unity Game Developer
+<h3 align="left">CG Artist/Unity Game Developer</h1>
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
